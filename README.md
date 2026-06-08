@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshit-sharma-mtr/](https://www.linkedin.com/in/riddhi-sharma-076bbb343))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/riddhi-sharma-076bbb343)](https://www.linkedin.com/in/riddhi-sharma-076bbb343))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshit-sharma08)
 
 
