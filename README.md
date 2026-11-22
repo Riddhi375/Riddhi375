@@ -25,13 +25,11 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[EcoSort AI](https://github.com/Riddhi375/ecosort-ai)** | Waste classifier into 6 categories using ResNet50 transfer learning, **86.17% test accuracy**, with a Streamlit UI | PyTorch, Streamlit, Plotly |
-| **AI Research Paper Intelligence System** | **5-agent pipeline** (Planner → Search → Analysis → Summary → Recommendation) with FAISS vector search and Gemini, with local BART/KeyBERT/spaCy fallback | Python, FAISS, Gemini, spaCy |
-| **[Fake News Detection](https://github.com/Riddhi375/Fake-News-Detection)** | Classifies news as real or fake with NLP, **~85% accuracy**, served via Flask | Scikit-learn, TF-IDF, Flask |
-| **NutriBot** | Nutrition chatbot with an Indian dietary focus, 5 modules, built on IBM watsonx.ai (Llama 3.3 70B) | Flask, IBM watsonx.ai |
+| **[AI Research Paper Intelligence System](https://github.com/Riddhi375/AI-Research-Paper-Intelligence-System)** | **5-agent pipeline** (Planner → Search → Analysis → Summary → Recommendation) with FAISS vector search and Gemini, with local BART/KeyBERT/spaCy fallback | Python, FAISS, Gemini, spaCy |
+| **[Fake News Detection](https://github.com/Riddhi375/Fakenews-Detection-System)** | Classifies news as real or fake with NLP, **~85% accuracy**, served via Flask | Scikit-learn, TF-IDF, Flask |
+| **[NutriBot (Nutrition Agent)](https://github.com/Riddhi375/Nutrition-Agent)** | Nutrition chatbot with an Indian dietary focus: chat, calorie analyzer, 7-day meal planner, BMI calculator and family planner, built on IBM watsonx.ai | Flask, IBM watsonx.ai, Bootstrap 5, JavaScript |
 | **Real-Time Public Transport Tracking** | Team project, **SIH 2025 internal-round finalist** | Team project |
 | **AssetFlow** | Enterprise asset-management system built with a team at **Odoo Hackathon 2026** | Team project |
-
-> 🔗 Add the repo links for the unlinked projects above once they are public.
 
 ---
 
@@ -54,13 +52,27 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages**
 
-**AI / ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Web & Backend:** ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**AI / ML & Generative AI**
 
-**Cloud & Tools:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Transformers%20(BART)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+`FAISS` · `KeyBERT` · `TF-IDF` · `Transfer Learning (ResNet50)` · `Multi-Agent Systems` · `RAG / Vector Search` · `Prompt Engineering`
+
+**Web & Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Tools & Data Viz**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
